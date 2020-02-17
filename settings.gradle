@@ -1,0 +1,2 @@
+include ':app', ':rotatableslider'
+rootProject.name='OrientedSliderDemo'

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="RotatableSlider">
+        <attr name="rs_thumb_color" format="color|reference"/>
+        <attr name="rs_track_fg_color" format="color|reference"/>
+        <attr name="rs_track_bg_color" format="color|reference"/>
+        <attr name="rs_thumb_radius" format="dimension|reference"/>
+        <attr name="rs_track_fg_thickness" format="dimension|reference"/>
+        <attr name="rs_track_bg_thickness" format="dimension|reference"/>
+        <attr name="rs_track_horizontal" format="boolean"/>
+    </declare-styleable>
+
+</resources>
